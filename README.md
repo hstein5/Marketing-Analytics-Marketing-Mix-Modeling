@@ -12,8 +12,11 @@ Your Data Science team with its experience in marketing mix modeling in the Luni
 - Seasonality of the Beer category
 - National holidays in Lunitunia in 2016 and 2017
 - TV advertisements have an 8-week half-life, and GRPs map into target audience 2+ Reach via the following formula: 
+    
     Reach = 0.95(1 − e^(− 0.020 GRP))
+    
 - Radio advertisements have a 4-week half-life, and GRPs map into target audience 2+ Reach via the following formula
+    
     Reach = 0.90(1 − e^(− 0.025 GRP))
 
 With the above insights and supplemental transaction and product data from Pernalonga, you are ready to demonstrate your capabilities in marketing analytics and help the client identify promotion and marketing vehicles that drive significant results.
